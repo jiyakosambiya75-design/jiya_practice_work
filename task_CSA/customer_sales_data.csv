@@ -1,0 +1,151 @@
+Customer_ID,Gender,Age,Region,Product_Category,Units_Purchased,Price_Per_Unit,Purchase_Date,Total_Amount
+C001,Male,19,East,Clothing,4,871,2026-01-27,3484
+C002,Male,55,West,Electronics,1,1567,2026-02-25,1567
+C003,Male,50,North,Home & Kitchen,4,3332,2026-06-16,13328
+C004,Female,32,West,Home & Kitchen,5,426,2026-02-10,2130
+C005,Female,39,East,Clothing,4,1678,2026-01-27,6712
+C006,Male,42,North,Grocery,6,668,2026-03-09,4008
+C007,Male,47,North,Beauty,2,1280,2026-03-17,2560
+C008,Female,54,South,Electronics,1,2666,2026-03-16,2666
+C009,Male,32,North,Beauty,5,1078,2026-06-12,5390
+C010,Female,28,East,Grocery,4,736,2026-03-10,2944
+C011,Male,56,South,Home & Kitchen,4,1069,2026-04-29,4276
+C012,Female,35,South,Grocery,1,284,2026-01-09,284
+C013,Female,43,East,Electronics,4,3377,2026-02-24,13508
+C014,Female,43,West,Clothing,5,871,2026-03-05,4355
+C015,Female,55,West,Home & Kitchen,7,1882,2026-02-26,13174
+C016,Male,50,West,Electronics,1,1698,2026-02-09,1698
+C017,Male,45,North,Beauty,7,1370,2026-04-30,9590
+C018,Female,53,North,Electronics,5,3586,2026-01-29,17930
+C019,Female,45,South,Beauty,1,1628,2026-03-09,1628
+C020,Male,50,North,Grocery,4,206,2026-04-06,824
+C021,Male,52,North,Home & Kitchen,6,2401,2026-01-05,14406
+C022,Male,41,East,Clothing,1,1286,2026-05-26,1286
+C023,Male,23,West,Electronics,3,1851,2026-06-18,5553
+C024,Female,53,South,Grocery,7,266,2026-05-19,1862
+C025,Male,37,West,Grocery,8,579,2026-04-26,4632
+C026,Male,33,South,Electronics,6,972,2026-05-31,5832
+C027,Male,55,South,Electronics,2,1282,2026-02-28,2564
+C028,Male,20,East,Electronics,4,3081,2026-06-21,12324
+C029,Female,31,South,Home & Kitchen,8,1395,2026-05-02,11160
+C030,Female,30,North,Electronics,7,3702,2026-04-19,25914
+C031,Female,47,North,Electronics,1,4098,2026-03-28,4098
+C032,Male,33,South,Clothing,8,874,2026-04-19,6992
+C033,Male,35,West,Clothing,2,2115,2026-05-21,4230
+C034,Male,21,North,Electronics,4,2162,2026-04-15,8648
+C035,Female,48,South,Beauty,1,487,2026-04-08,487
+C036,Male,42,East,Beauty,5,1016,2026-06-28,5080
+C037,Female,27,South,Grocery,4,109,2026-05-29,436
+C038,Male,38,North,Electronics,8,4919,2026-05-16,39352
+C039,Male,21,North,Clothing,2,578,2026-06-22,1156
+C040,Male,43,North,Home & Kitchen,4,2771,2026-06-02,11084
+C041,Male,57,North,Beauty,6,684,2026-02-22,4104
+C042,Female,33,East,Beauty,3,1525,2026-06-15,4575
+C043,Female,47,East,Electronics,1,4554,2026-06-09,4554
+C044,Male,22,South,Home & Kitchen,5,942,2026-03-31,4710
+C045,Male,33,East,Grocery,3,498,2026-05-20,1494
+C046,Female,57,North,Home & Kitchen,5,3117,2026-01-27,15585
+C047,Male,34,North,Electronics,3,3031,2026-03-14,9093
+C048,Male,39,South,Grocery,8,307,2026-01-14,2456
+C049,Male,58,West,Grocery,1,53,2026-03-27,53
+C050,Male,58,East,Clothing,8,2051,2026-05-24,16408
+C051,Male,25,North,Clothing,1,1812,2026-05-30,1812
+C052,Male,45,South,Electronics,5,3787,2026-01-11,18935
+C053,Female,31,South,Electronics,6,4129,2026-06-08,24774
+C054,Male,33,South,Clothing,7,401,2026-02-15,2807
+C055,Female,44,South,Grocery,3,768,2026-01-28,2304
+C056,Female,20,West,Clothing,4,2185,2026-03-31,8740
+C057,Female,32,South,Electronics,4,4064,2026-03-26,16256
+C058,Female,22,East,Grocery,7,745,2026-05-18,5215
+C059,Female,19,North,Grocery,3,644,2026-03-09,1932
+C060,Male,24,West,Grocery,6,496,2026-06-05,2976
+C061,Male,42,South,Grocery,1,775,2026-04-22,775
+C062,Male,51,South,Grocery,7,121,2026-06-20,847
+C063,Female,57,East,Electronics,5,4954,2026-03-21,24770
+C064,Female,38,West,Grocery,3,246,2026-04-18,738
+C065,Female,29,East,Beauty,1,772,2026-03-15,772
+C066,Male,45,East,Beauty,8,1055,2026-06-22,8440
+C067,Male,50,West,Clothing,2,1462,2026-05-12,2924
+C068,Female,23,South,Grocery,4,253,2026-02-07,1012
+C069,Male,20,South,Beauty,2,1082,2026-04-17,2164
+C070,Male,42,West,Beauty,4,452,2026-06-17,1808
+C071,Male,24,West,Clothing,3,2421,2026-04-29,7263
+C072,Male,53,South,Electronics,8,1892,2026-04-29,15136
+C073,Female,46,West,Home & Kitchen,8,1051,2026-05-02,8408
+C074,Female,34,South,Grocery,8,691,2026-03-03,5528
+C075,Female,46,North,Grocery,4,328,2026-03-27,1312
+C076,Female,52,North,Clothing,3,1247,2026-04-09,3741
+C077,Male,31,North,Beauty,7,827,2026-05-19,5789
+C078,Female,44,North,Clothing,7,1895,2026-05-30,13265
+C079,Male,54,West,Beauty,1,870,2026-03-18,870
+C080,Female,44,South,Beauty,4,708,2026-04-22,2832
+C081,Female,19,West,Grocery,7,791,2026-02-12,5537
+C082,Female,26,North,Beauty,1,321,2026-06-14,321
+C083,Female,26,West,Clothing,1,1365,2026-04-08,1365
+C084,Female,31,West,Grocery,6,438,2026-03-13,2628
+C085,Female,34,North,Beauty,1,1684,2026-05-19,1684
+C086,Male,40,South,Electronics,1,1054,2026-03-05,1054
+C087,Male,19,South,Clothing,3,2239,2026-06-21,6717
+C088,Male,54,South,Beauty,5,1720,2026-04-05,8600
+C089,Male,56,North,Clothing,5,742,2026-05-29,3710
+C090,Male,37,West,Beauty,4,305,2026-06-01,1220
+C091,Male,24,East,Home & Kitchen,2,2718,2026-01-11,5436
+C092,Female,52,West,Grocery,2,568,2026-06-15,1136
+C093,Female,18,West,Beauty,2,1037,2026-04-03,2074
+C094,Female,27,West,Clothing,5,2280,2026-04-30,11400
+C095,Female,55,East,Grocery,4,138,2026-03-13,552
+C096,Female,33,West,Home & Kitchen,7,1777,2026-01-08,12439
+C097,Female,38,South,Beauty,4,876,2026-03-08,3504
+C098,Female,35,East,Home & Kitchen,1,2516,2026-02-18,2516
+C099,Male,33,West,Beauty,4,1564,2026-05-02,6256
+C100,Female,46,North,Electronics,5,2615,2026-04-14,13075
+C101,Male,37,East,Beauty,6,1021,2026-05-21,6126
+C102,Female,40,West,Grocery,5,307,2026-03-01,1535
+C103,Male,30,East,Electronics,3,2369,2026-02-25,7107
+C104,Female,35,East,Electronics,4,3226,2026-02-28,12904
+C105,Female,29,East,Electronics,3,3047,2026-01-12,9141
+C106,Male,53,East,Clothing,8,720,2026-01-04,5760
+C107,Female,48,West,Beauty,6,527,2026-01-14,3162
+C108,Female,48,North,Electronics,7,4828,2026-01-19,33796
+C109,Male,27,South,Home & Kitchen,5,748,2026-03-05,3740
+C110,Male,53,West,Home & Kitchen,4,2540,2026-04-08,10160
+C111,Female,46,East,Home & Kitchen,7,1650,2026-05-26,11550
+C112,Male,57,North,Clothing,4,1383,2026-06-19,5532
+C113,Male,28,South,Clothing,2,941,2026-01-01,1882
+C114,Female,46,West,Grocery,1,287,2026-03-15,287
+C115,Female,47,North,Clothing,5,1110,2026-04-19,5550
+C116,Male,52,South,Clothing,5,882,2026-01-19,4410
+C117,Male,28,East,Home & Kitchen,5,2198,2026-02-01,10990
+C118,Female,37,West,Grocery,8,498,2026-01-21,3984
+C119,Male,45,East,Home & Kitchen,5,505,2026-01-24,2525
+C120,Male,54,North,Grocery,1,229,2026-05-01,229
+C121,Female,35,South,Home & Kitchen,7,3000,2026-05-06,21000
+C122,Male,48,East,Beauty,6,807,2026-06-21,4842
+C123,Male,28,East,Beauty,8,740,2026-06-19,5920
+C124,Female,53,North,Beauty,2,794,2026-03-06,1588
+C125,Female,25,West,Home & Kitchen,1,3093,2026-05-19,3093
+C126,Female,44,North,Clothing,6,2341,2026-06-10,14046
+C127,Female,21,South,Grocery,3,344,2026-04-23,1032
+C128,Female,25,North,Home & Kitchen,4,3307,2026-02-10,13228
+C129,Female,53,North,Home & Kitchen,7,781,2026-02-27,5467
+C130,Male,47,North,Clothing,8,1495,2026-05-11,11960
+C131,Female,44,West,Beauty,4,1085,2026-05-22,4340
+C132,Male,42,South,Home & Kitchen,3,685,2026-03-12,2055
+C133,Female,39,East,Electronics,5,3245,2026-05-31,16225
+C134,Female,27,West,Home & Kitchen,8,1813,2026-03-27,14504
+C135,Female,47,East,Clothing,4,1868,2026-03-01,7472
+C136,Female,20,East,Beauty,7,940,2026-06-19,6580
+C137,Male,49,North,Clothing,6,711,2026-04-23,4266
+C138,Male,51,West,Electronics,3,4158,2026-06-17,12474
+C139,Male,22,West,Grocery,6,688,2026-06-27,4128
+C140,Female,59,North,Grocery,7,374,2026-06-10,2618
+C141,Female,52,North,Home & Kitchen,2,1361,2026-06-11,2722
+C142,Female,32,North,Beauty,2,1707,2026-06-12,3414
+C143,Male,46,South,Grocery,1,97,2026-03-25,97
+C144,Male,36,East,Grocery,7,199,2026-03-04,1393
+C145,Female,54,South,Clothing,3,623,2026-06-06,1869
+C146,Female,57,South,Beauty,3,625,2026-04-29,1875
+C147,Female,47,East,Electronics,8,3156,2026-06-23,25248
+C148,Male,22,West,Grocery,5,704,2026-04-19,3520
+C149,Female,47,East,Clothing,7,2279,2026-01-28,15953
+C150,Male,42,East,Home & Kitchen,5,3264,2026-03-17,16320
